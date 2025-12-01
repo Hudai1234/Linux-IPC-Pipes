@@ -97,7 +97,7 @@ void client(int wfd, int rfd) {
 
 
 ## OUTPUT
-![Shared Memory Output](222.png)
+![Pipe Program Output](images/222.png)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -183,7 +183,7 @@ void client() {
 
 
 ## OUTPUT
-![Shared Memory Output](444.png)
+![Pipe Program Result](images/444.png)
 
 
 # RESULT:
